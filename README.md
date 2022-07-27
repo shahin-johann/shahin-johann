@@ -25,7 +25,7 @@ This section covers all my work and contribution
 
 -> Senior Developer, working in the Scripting field.
 
-**(Project):** Stronk Rap Battles, Rap Battle Game. [2022 - Now]**
+**(Project): Stronk Rap Battles, Rap Battle Game. [2022 - Now]**
 
 -> Developer, working in the Scripting field.
 
