@@ -15,15 +15,19 @@ This section covers all my work and contribution
 
 ## Contribution(s)
 
-**(Group): Rotterdamse Elektrische Tram (RET) with 20k+ Members**
+**(Group): Rotterdamse Elektrische Tram (RET) with 20k+ Members. [2019 - 2020]**
 
 -> Helped with script security & efficiency.
 
 -> Helped with vulnerabilities in-game to prevent major game exploiting.
 
-**(Project): Studio Desires, Horror Game Project.**
+**(Project): Studio Desires, Horror Game Project. [2022 - Now]**
 
 -> Senior Developer, working in the Scripting field.
+
+**(Project):** Stronk Rap Battles, Rap Battle Game. [2022 - Now]**
+
+-> Developer, working in the Scripting field.
 
 ## My Work
 
